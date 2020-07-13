@@ -2,23 +2,23 @@
 	"users":[
     {
       "id": 1,
-      "nama": "Muhammad ramdan",
-      "alamat": "Bekasi",
-      "umur": 24,
+      "nama": "Santi Lestari",
+      "alamat": "Sukabumi",
+      "umur": 29,
       "hp": "083874731480"
     },
     {
       "id": 2,
       "nama": "Muhammad ramdan",
       "alamat": "Bekasi",
-      "umur": 23,
+      "umur": 24,
       "hp": "083874731480"
     },
     {
       "id": 3,
-      "nama": "Muhammad ramdan",
+      "nama": "Siti Urfiyah",
       "alamat": "Bekasi",
-      "umur": 24,
+      "umur": 18,
       "hp": "083874731480"
     }
 
